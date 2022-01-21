@@ -3,7 +3,11 @@
 * <https://www.tecmint.com/install-debian-11-minimal-server/>
 * <https://www.server-world.info/en/note?os=Debian_11&p=download&f=1>
 
-## Debian Bullseys/Bster static ip address
+## Debian Bullseys/Buster adding a sudo user
+
+* <https://milq.github.io/enable-sudo-user-account-debian/>
+
+## Debian Bullseys/Buster static ip address
 
 * <https://aymeric-cucherousset.fr/en/assign-fixed-ip-address-debian/>
 * <https://www.server-world.info/en/note?os=Debian_11&p=initial_conf&f=3>
