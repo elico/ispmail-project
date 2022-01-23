@@ -47,3 +47,6 @@
 * [cheat.sh](http://cheat.sh/) - [Github sources](https://github.com/chubin/cheat.sh)
 * <https://github.com/bertvv/cheat-sheets/blob/master/docs/MySQL-MariaDB.md>
 * <https://mariadb.com/wp-content/uploads/2021/08/mariadb-standard-developer_cheat-sheet_1113.pdf>
+* <https://www.edureka.co/blog/wp-content/uploads/2018/11/Ansible-Cheat_Sheet_Edureka.pdf>
+* <https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide>
+* <https://intellipaat.com/mediaFiles/2019/03/Ansible-cheat-sheet.pdf>
