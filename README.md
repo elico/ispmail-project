@@ -41,4 +41,9 @@
 ## LEMP Stack
 * <https://www.howtoforge.com/install-lemp-stack-nginx-php-mariadb-on-debian-11/>
 
-
+## Cheat Sheets
+* [iproute](https://baturin.org/docs/iproute2/)
+* [Nmap cheatsheet](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Cheat-Sheet.pdf)
+* [cheat.sh](http://cheat.sh/) - [Github sources](https://github.com/chubin/cheat.sh)
+* <https://github.com/bertvv/cheat-sheets/blob/master/docs/MySQL-MariaDB.md>
+* <https://mariadb.com/wp-content/uploads/2021/08/mariadb-standard-developer_cheat-sheet_1113.pdf>
