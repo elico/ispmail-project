@@ -4,7 +4,7 @@
 * <https://www.server-world.info/en/note?os=Debian_11&p=download&f=1>
 
 ## /etc/apt/sources.list
-
+```/usr/bin/wget https://raw.githubusercontent.com/elico/ispmail-project/master/debian-bullseye-il-sources.list -O  /etc/apt/sources.list```
 ## Debian Bullseys/Buster adding a sudo user
 
 * <https://milq.github.io/enable-sudo-user-account-debian/>
