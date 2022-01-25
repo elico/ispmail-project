@@ -3,6 +3,8 @@
 * <https://www.tecmint.com/install-debian-11-minimal-server/>
 * <https://www.server-world.info/en/note?os=Debian_11&p=download&f=1>
 
+## /etc/apt/sources.list
+
 ## Debian Bullseys/Buster adding a sudo user
 
 * <https://milq.github.io/enable-sudo-user-account-debian/>
