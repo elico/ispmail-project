@@ -47,11 +47,14 @@
 ## LEMP Stack
 * <https://www.howtoforge.com/install-lemp-stack-nginx-php-mariadb-on-debian-11/>
 
-## 
+## SSL Tests
 * [SSL LABS test app.pluralsight.com](https://www.ssllabs.com/ssltest/analyze.html?d=app.pluralsight.com&latest)
 * [SSL LABS mail server test](https://www.ssllabs.com/ssltest/analyze.html?d=mail.rimon.net.il&latest)
 * [SSL LABS www.ngtech.co.il](https://www.ssllabs.com/ssltest/analyze.html?d=www.ngtech.co.il&latest)
 * [SSL LABS www.gov.il](https://www.ssllabs.com/ssltest/analyze.html?d=www.gov.il&latest)
+
+## SSL Testing tools
+* <https://github.com/drwetter/testssl.sh>
 
 ## Cheat Sheets
 * [iproute](https://baturin.org/docs/iproute2/)
