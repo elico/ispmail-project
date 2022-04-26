@@ -65,3 +65,7 @@
 * <https://www.edureka.co/blog/wp-content/uploads/2018/11/Ansible-Cheat_Sheet_Edureka.pdf>
 * <https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide>
 * <https://intellipaat.com/mediaFiles/2019/03/Ansible-cheat-sheet.pdf>
+
+
+## Identification of Tora Sefer 
+* https://www.zomet.org.il/?CategoryID=259&ArticleID=241
